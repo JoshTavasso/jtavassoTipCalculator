@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-My laptop has limited storage, so I had to do quite a bit of cleaning and moving files to external drives to ensure I have enough space for xcode and other dependencies needed
+My laptop has limited storage, so I had to do quite a bit of cleaning and moving files to external drives to ensure I have enough space for xcode and other dependencies needed.
 
 ## License
 
