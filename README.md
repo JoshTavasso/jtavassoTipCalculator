@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-My laptop has limited storage, so I had to do quite a bit of cleaning and moving files to external drives to ensure I have enough space for xcode and other dependencies needed.
+My laptop has limited storage, so I had to do remove/move a lot of files to ensure I have enough space for xcode and other dependencies needed.
 
 ## License
 
